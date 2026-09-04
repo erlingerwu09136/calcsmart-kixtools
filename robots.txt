@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: http://calc.kixtools.com/sitemap.xml
+Sitemap:https://tools.infinite.kdns.fr/sitemap.xml
